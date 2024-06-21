@@ -11,10 +11,10 @@ The player must then repeat the sequence back to the computer by clicking on the
 If the player succeeds, the computer generates a new sequence by adding one more color to the previous sequence.
 If the player fails, the game is over, we blinked a red backround to describe about the game is over.
 
-# when the game is over we can press any key to play the game again
+### when the game is over we can press any key to play the game again
 The game continues until the player fails to repeat the sequence correctly.
 The goal of the game is to get the longest sequence possible.
 and a score counter to display the current score.
 
-# It is made using these languages
+### It is made using these languages
 The game is played in a browser using HTML, CSS, and JavaScript.
