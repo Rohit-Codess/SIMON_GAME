@@ -1,4 +1,5 @@
-# SIMON GAME 🎮🧑‍💻
+<<<<<<< HEAD
+# SIMON GAME 🎮🧑‍💻.
 The game is played by a single player and a computer.
 
 ### INITIALLY COMPUTER TURN
