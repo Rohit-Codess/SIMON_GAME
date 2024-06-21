@@ -1,7 +1,7 @@
 # It is SIMON GAME.
 The game is played by a single player and a computer.
 
-# Initially computer turn
+## Initially computer turn
 Initially we press any key from our PC to start the game.
 The game starts with a blank sequence of colors.
 The computer generates a random sequence of colors and displays it to the player.
